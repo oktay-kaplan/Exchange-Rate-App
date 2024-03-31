@@ -1,4 +1,4 @@
-Getting Started
+## Getting Started
 
 To run this app locally, follow these steps:
 
